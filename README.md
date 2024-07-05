@@ -1,2 +1,2 @@
 # hospital
-Creating a new branch is very quick &simple.123
+Creating a new branch is very quick and simple.
